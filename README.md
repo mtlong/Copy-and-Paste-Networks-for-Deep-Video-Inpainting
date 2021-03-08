@@ -12,6 +12,8 @@ Official pytorch implementation for "Copy-and-Paste Networks for Deep Video Inpa
 - python 3.6
 - pytorch 0.4
 
+**MTL Notes:** I tested it with Pytorch 1.7, Python 3.8, cuda 11.0 and it works fine.
+
 ### Download weights
 ```
 mkdir ./weight
